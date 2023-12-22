@@ -31,7 +31,7 @@ appium
 
 Key directories and files in this project are as follows:
 
-`android`: Contains the Android application to be tested. Place the APK in `android/build`.
-`ios`: Houses the iOS application for testing. Place the IPA in `ios/build`.
-`__tests__`: This directory holds test scripts. You can add custom test files here, organized by features.
+`android`: Contains the Android application to be tested. Place the APK in `android/build`.  
+`ios`: Houses the iOS application for testing. Place the IPA in `ios/build`.  
+`__tests__`: This directory holds test scripts. You can add custom test files here, organized by features.  
 `config`: Contains configuration files. Add your custom configurations here.
