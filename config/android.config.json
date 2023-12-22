@@ -1,0 +1,8 @@
+{
+  "platformName": "Android",
+  "appium:platformVersion": "11.0",
+  "appium:deviceName": "Android Emulator",
+  "appium:app": "./android/build/app.apk",
+  "appium:automationName": "UiAutomator2",
+  "appium:newCommandTimeout": 240
+}
