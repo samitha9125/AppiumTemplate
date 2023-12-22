@@ -1,8 +1,10 @@
 # Appium Template
 
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 ## Overview
 
-This template is designed for projects involving Android, iOS, React Native, or Flutter, intending to leverage Appium and Jest for automated testing. It includes straightforward setup instructions, enabling test execution on both Android and iOS platforms.
+This template is designed for projects involving Android, iOS, React Native, or Flutter, intending to leverage Appium and Jest for e2e automated testing. It includes straightforward setup instructions, enabling test execution on both Android and iOS platforms.
 
 Note that automatic server initialization is currently limited to macOS users. For Windows/Linux users, manual Appium server startup is necessary, achieved by executing the following command in a separate terminal.
 
