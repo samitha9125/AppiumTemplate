@@ -14,7 +14,7 @@ appium
 
 ## Installation
 
-1. Install Node.js (Node Official Docs: https://nodejs.org/en/download/)
+1. Install Node.js (Recommended: [Latest LTS version (Node 20+)](https://nodejs.org/en/download/) )
 2. Install Appium (`npm i -g appium`)
 3. Install Appium Android Driver (`appium driver install uiautomator2`)
 4. Install Appium iOS Driver (`appium driver install xcuitest`)
